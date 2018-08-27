@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ashnamuh/jpy-krw-currency-rate-linebot/issues"
   },
-  "homepage": "https://github.com/ashnamuh/jpy-krw-currency-rate-linebot#readme"
+  "homepage": "https://github.com/ashnamuh/jpy-krw-currency-rate-linebot#readme",
+  "devDependencies": {
+    "xo": "^0.22.0"
+  }
 }
