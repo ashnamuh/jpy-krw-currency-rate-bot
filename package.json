@@ -1,0 +1,22 @@
+{
+  "name": "jpy-krw-currency-rate-linebot",
+  "version": "1.0.0",
+  "description": "jpy_krw currency rase pushing line bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashnamuh/jpy-krw-currency-rate-linebot.git"
+  },
+  "keywords": [
+    "linebot"
+  ],
+  "author": "ashnamuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashnamuh/jpy-krw-currency-rate-linebot/issues"
+  },
+  "homepage": "https://github.com/ashnamuh/jpy-krw-currency-rate-linebot#readme"
+}
