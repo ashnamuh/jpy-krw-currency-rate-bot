@@ -1,5 +1,4 @@
 # telegram-jpy-rate-push-bot
-========
 
 Description
 ----------
