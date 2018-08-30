@@ -23,6 +23,8 @@
     "xo": "^0.22.0"
   },
   "dependencies": {
+    "config": "^2.0.1",
+    "node-telegram-bot-api": "^0.30.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5"
   }

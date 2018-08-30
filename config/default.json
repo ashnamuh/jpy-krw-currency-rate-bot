@@ -1,0 +1,6 @@
+{
+  "telegramBot": {
+    "token": "yourToken",
+    "chatId": "temporaryChatId"
+  }
+}
